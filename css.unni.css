@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(0, 255, 98);
+    height: 1px;
+    
+}
+h1{
+    color: rgb(42, 165, 159);
+    text-align: center;
+
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    font-style: normal;
+    font-style: calc(8);
+}
